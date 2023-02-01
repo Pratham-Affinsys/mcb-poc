@@ -1,0 +1,4 @@
+MCB-Metaverse-2.data filter=lfs diff=lfs merge=lfs -text
+MCB-Metaverse-2.framework.js filter=lfs diff=lfs merge=lfs -text
+MCB-Metaverse-2.loader.js filter=lfs diff=lfs merge=lfs -text
+MCB-Metaverse-2.wasm filter=lfs diff=lfs merge=lfs -text
